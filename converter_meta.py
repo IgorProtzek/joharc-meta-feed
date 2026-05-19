@@ -14,6 +14,20 @@ URLS = {
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "joharc_meta.xml")
 
+TELEGRAM_TOKEN = "8962019970:AAGhn4_QNJOAlYrjbY3zPW7xFARdf6DorcY"
+TELEGRAM_CHAT_ID = "878451818"
+
+
+def telegram(msg):
+    try:
+        requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+            json={"chat_id": TELEGRAM_CHAT_ID, "text": msg},
+            timeout=10,
+        )
+    except Exception:
+        pass
+
 
 def strip_html(text):
     if not text:
@@ -166,27 +180,39 @@ def fetch_listings(imovel_para, root_out):
 
 
 if __name__ == "__main__":
-    root_out = ET.Element("listings")
+    try:
+        root_out = ET.Element("listings")
 
-    total_loc = fetch_listings("L", root_out)
-    total_venda = fetch_listings("V", root_out)
+        total_loc = fetch_listings("L", root_out)
+        total_venda = fetch_listings("V", root_out)
 
-    xml_bytes = prettify(root_out)
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(xml_bytes)
+        xml_bytes = prettify(root_out)
+        with open(OUTPUT_FILE, "wb") as f:
+            f.write(xml_bytes)
 
-    total = total_loc + total_venda
-    print(f"\nResumo:")
-    print(f"  Locação : {total_loc} imóveis")
-    print(f"  Venda   : {total_venda} imóveis")
-    print(f"  Total   : {total} imóveis -> {OUTPUT_FILE}")
+        total = total_loc + total_venda
+        print(f"\nResumo:")
+        print(f"  Locação : {total_loc} imóveis")
+        print(f"  Venda   : {total_venda} imóveis")
+        print(f"  Total   : {total} imóveis -> {OUTPUT_FILE}")
 
-    # commit e push para GitHub
-    data = datetime.now().strftime("%Y-%m-%d %H:%M")
-    subprocess.run(["git", "-C", SCRIPT_DIR, "add", OUTPUT_FILE], check=True)
-    result = subprocess.run(["git", "-C", SCRIPT_DIR, "commit", "-m", f"Atualiza feed Meta - {total} imóveis ({data})"])
-    if result.returncode == 0:
-        subprocess.run(["git", "-C", SCRIPT_DIR, "push"], check=True)
-        print("Feed enviado ao GitHub com sucesso.")
-    else:
-        print("Feed sem alterações, push não necessário.")
+        # commit e push para GitHub
+        data = datetime.now().strftime("%Y-%m-%d %H:%M")
+        subprocess.run(["git", "-C", SCRIPT_DIR, "add", OUTPUT_FILE], check=True)
+        result = subprocess.run(["git", "-C", SCRIPT_DIR, "commit", "-m", f"Atualiza feed Meta - {total} imóveis ({data})"])
+        if result.returncode == 0:
+            subprocess.run(["git", "-C", SCRIPT_DIR, "push"], check=True)
+            print("Feed enviado ao GitHub com sucesso.")
+
+        telegram(
+            f"✅ Joharc Meta Feed atualizado\n"
+            f"📅 {data}\n"
+            f"🏠 Locação: {total_loc} imóveis\n"
+            f"🏷️ Venda: {total_venda} imóveis\n"
+            f"📦 Total: {total} imóveis"
+        )
+
+    except Exception as e:
+        msg = f"❌ Erro ao atualizar Joharc Meta Feed\n{datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n{e}"
+        print(msg)
+        telegram(msg)
