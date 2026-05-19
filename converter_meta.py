@@ -1,4 +1,7 @@
+import os
 import re
+import subprocess
+from datetime import datetime
 import requests
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
@@ -8,7 +11,8 @@ URLS = {
     "V": "https://portalimoveis.casasoft.net.br/ftp/agendacafe/14570/casasoft14570v10.xml",
 }
 
-OUTPUT_FILE = "joharc_meta.xml"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "joharc_meta.xml")
 
 
 def strip_html(text):
@@ -176,3 +180,13 @@ if __name__ == "__main__":
     print(f"  Locação : {total_loc} imóveis")
     print(f"  Venda   : {total_venda} imóveis")
     print(f"  Total   : {total} imóveis -> {OUTPUT_FILE}")
+
+    # commit e push para GitHub
+    data = datetime.now().strftime("%Y-%m-%d %H:%M")
+    subprocess.run(["git", "-C", SCRIPT_DIR, "add", OUTPUT_FILE], check=True)
+    result = subprocess.run(["git", "-C", SCRIPT_DIR, "commit", "-m", f"Atualiza feed Meta - {total} imóveis ({data})"])
+    if result.returncode == 0:
+        subprocess.run(["git", "-C", SCRIPT_DIR, "push"], check=True)
+        print("Feed enviado ao GitHub com sucesso.")
+    else:
+        print("Feed sem alterações, push não necessário.")
