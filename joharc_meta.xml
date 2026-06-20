@@ -17,34 +17,34 @@
     <longitude>-51.4616028</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925314570.jpg?20260601134213827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925314570.jpg?20260618154159217</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925414570.jpg?20260601134214327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925414570.jpg?20260618154159700</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925714570.jpg?20260601134215590</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925714570.jpg?20260618154200873</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925514570.jpg?20260601134214700</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925514570.jpg?20260618154200077</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925114570.jpg?20260601134212747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925114570.jpg?20260618154158387</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925814570.jpg?20260601134216030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925814570.jpg?20260618154201247</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925914570.jpg?20260601134216483</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925914570.jpg?20260618154201683</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925014570.jpg?20260601134212247</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925014570.jpg?20260618154157980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925614570.jpg?20260601134215153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925614570.jpg?20260618154200480</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925214570.jpg?20260601134213293</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/7114570/2925214570.jpg?20260618154158793</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>1</num_baths>
@@ -676,35 +676,92 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-293814570</home_listing_id>
-    <name>Residência em alvenaria localizada no condomínio Portal do Lago</name>
+    <home_listing_id>14570-129014570</home_listing_id>
+    <name>Sobrado com 3 quartos  para alugar, 120.00 m2 por R$1850.00  - Jardim Morumbi - Apucarana/PR</name>
     <availability>for_rent</availability>
     <listing_type>for_rent_by_agent</listing_type>
-    <description>Residência em alvenaria localizada no condomínio Portal do Lago Contém: - 03 quartos (sendo 01 suíte) - Sala ampla - Cozinha com armários planejados - WC social - Garagem paralela - Edícula com área de serviço, despejo, wc - Churrasqueira com balcão e pia IPTU por conta do locador. Imóvel em reforma, será feito pintura interna e externa</description>
+    <description>Sobrado com 3 quartos para alugar, 120.00 m2 por R$1850.00 - Jardim Morumbi - Apucarana/PR Sobrado (Rua Governador Emilio Gomes, nº 234, Bairro da Igrejinha) - contendo: 03 quartos sendo 1 suíte sala, copa cozinha lavabo banheiro social área de serviço e garagem. Valor do aluguel + Seguro incêndio. IPTU por conta do proprietário. * Próximo do novo Super Muffato!</description>
     <address format="simple">
-      <component name="addr1">Sebastiana de Abreu Navas 39</component>
+      <component name="addr1">Governador Emilio Gomes 234</component>
       <component name="city">APUCARANA</component>
       <component name="region">PR</component>
       <component name="country">Brasil</component>
-      <component name="postal_code">86802069</component>
+      <component name="postal_code">86802350</component>
     </address>
-    <latitude>-23.5627959</latitude>
-    <longitude>-51.4789800</longitude>
-    <neighborhood>JARDIM PORTAL DO LAGO</neighborhood>
+    <latitude>-23.5673522</latitude>
+    <longitude>-51.4601705</longitude>
+    <neighborhood>JARDIM MORUMBI</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/293814570/2907414570.jpg?20260611162320920</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/246914570.jpg?20260619143717827</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/293814570/2907614570.jpg?20260611162321467</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247014570.jpg?20260619143718170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/293814570/2907114570.jpg?20260611162320403</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2976414570.jpg?20260619143724387</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975314570.jpg?20260619143721123</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975214570.jpg?20260619143720730</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975514570.jpg?20260619143721887</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247114570.jpg?20260619143718403</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247214570.jpg?20260619143718623</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975414570.jpg?20260619143721497</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247314570.jpg?20260619143718873</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247414570.jpg?20260619143719090</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247514570.jpg?20260619143719327</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247814570.jpg?20260619143719560</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/247914570.jpg?20260619143719780</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/248014570.jpg?20260619143719997</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975914570.jpg?20260619143722683</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2976114570.jpg?20260619143723450</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2975814570.jpg?20260619143722280</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2976014570.jpg?20260619143723043</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/248214570.jpg?20260619143720217</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2976214570.jpg?20260619143723980</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/129014570/2976614570.jpg?20260619143724873</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
     <num_units>1</num_units>
-    <price>2300 BRL</price>
-    <property_type>house</property_type>
+    <price>1850 BRL</price>
+    <property_type>other</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
@@ -841,59 +898,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-137414570</home_listing_id>
-    <name>Casa Residencial com 2 quartos  para alugar, 60.00 m2 por R$620.00  - Nucleo Habitacional Dom R - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Casa Residencial com 2 quartos para alugar, 60.00 m2 por R$620.00 - Nucleo Habitacional Dom R - Apucarana/PR Residência de alvenaria localizada na rua São Tiago, nº 323, Dom Romeu Alberti - Contendo: - 02 quartos; - Sala; - Cozinha; - Banheiro; - Área de serviço - Garagem</description>
-    <address format="simple">
-      <component name="addr1">Sao Tiago 323</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86806250</component>
-    </address>
-    <latitude>-23.5297075</latitude>
-    <longitude>-51.4367858</longitude>
-    <neighborhood>NUCLEO HABITACIONAL DOM R</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747514570.jpg?20260611154155747</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2746614570.jpg?20260611154152107</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747014570.jpg?20260611154153810</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747414570.jpg?20260611154155340</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2746714570.jpg?20260611154152530</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747114570.jpg?20260611154154200</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747314570.jpg?20260611154154950</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2746814570.jpg?20260611154152967</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2747214570.jpg?20260611154154577</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/137414570/2746914570.jpg?20260611154153403</url>
-    </image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>620 BRL</price>
-    <property_type>house</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-165914570</home_listing_id>
     <name>Casa Residencial com 2 quartos  para alugar, 1.00 m2 por R$1200.00  - Jardim Residencial Franca - Apucarana/PR</name>
     <availability>for_rent</availability>
@@ -910,70 +914,70 @@
     <longitude>-51.4796154</longitude>
     <neighborhood>JARDIM RESIDENCIAL FRANCA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384414570.jpg?20260611154147233</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384414570.jpg?20260618165245607</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384614570.jpg?20260611154147590</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384614570.jpg?20260618165245903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384914570.jpg?20260611154148373</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384914570.jpg?20260618165246560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384714570.jpg?20260611154147827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384714570.jpg?20260618165246123</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384814570.jpg?20260611154148090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/384814570.jpg?20260618165246340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385014570.jpg?20260611154148623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385014570.jpg?20260618165246717</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385114570.jpg?20260611154148810</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385114570.jpg?20260618165246857</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385214570.jpg?20260611154149013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385214570.jpg?20260618165247013</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385314570.jpg?20260611154149187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385314570.jpg?20260618165247170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385414570.jpg?20260611154149437</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385414570.jpg?20260618165247373</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385514570.jpg?20260611154149653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385514570.jpg?20260618165247577</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385614570.jpg?20260611154149857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385614570.jpg?20260618165247780</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385714570.jpg?20260611154150030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385714570.jpg?20260618165247933</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385814570.jpg?20260611154150200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385814570.jpg?20260618165248090</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385914570.jpg?20260611154150450</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/385914570.jpg?20260618165248293</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386014570.jpg?20260611154150607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386014570.jpg?20260618165248433</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386114570.jpg?20260611154150840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386114570.jpg?20260618165248637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386214570.jpg?20260611154151013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386214570.jpg?20260618165248793</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386314570.jpg?20260611154151200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386314570.jpg?20260618165248997</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386414570.jpg?20260611154151357</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386414570.jpg?20260618165249153</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386514570.jpg?20260611154151530</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386514570.jpg?20260618165249310</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386614570.jpg?20260611154151730</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165914570/386614570.jpg?20260618165249480</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -1137,133 +1141,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-25514570</home_listing_id>
-    <name>Sobrado com 3 quartos  para alugar, 100.00 m2 por R$1850.00  - Centro - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Sobrado com 3 quartos para alugar, 100.00 m2 por R$1850.00 - Centro - Apucarana/PR Sobrado no Centro de Apucarana. Localizado na Rua Lapa, 366. Sobrado 02. O imóvel contém: » 03 Quartos. » 01 Suíte. » 01 Sala. » 01 Cozinha. » 01 Banheiro social. » Lavanderia, » Lavabo. » Garagem.</description>
-    <address format="simple">
-      <component name="addr1">Lapa 366 A</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86800310</component>
-    </address>
-    <latitude>-23.5554346</latitude>
-    <longitude>-51.4690914</longitude>
-    <neighborhood>CENTRO</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2181714570.jpg?20260605155145513</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937114570.jpg?20260605155206700</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/463714570.jpg?20260605155152890</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937314570.jpg?20260605155207623</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937214570.jpg?20260605155207140</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936414570.jpg?20260605155204793</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937614570.jpg?20260605155208513</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937514570.jpg?20260605155208060</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936614570.jpg?20260605155205513</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936714570.jpg?20260605155205950</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936914570.jpg?20260605155206263</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936514570.jpg?20260605155205217</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937714570.jpg?20260605155208967</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2937814570.jpg?20260605155209497</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/25514570/2936314570.jpg?20260605155204530</url>
-    </image>
-    <num_beds>3</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>1850 BRL</price>
-    <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
-    <home_listing_id>14570-814570</home_listing_id>
-    <name>Sala comercial localizada na Rua Osvaldo de Oliveira, n° 544</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Sala comercial localizada na Rua Osvaldo de Oliveira, n° 544 - contendo: cozinha, despensa, 2 banheiros e garagem. IPTU por conta do locador. Agende sua visita!</description>
-    <address format="simple">
-      <component name="addr1">Osvaldo De Oliveira 544</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86811500</component>
-    </address>
-    <latitude>-23.5642703</latitude>
-    <longitude>-51.4405991</longitude>
-    <neighborhood>JARDIM FLAMINGOS</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2921414570.jpg?20260610112710373</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2921114570.jpg?20260610112709840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920014570.jpg?20260610112700280</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920314570.jpg?20260610112701497</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920214570.jpg?20260610112700873</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920414570.jpg?20260610112702030</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920514570.jpg?20260610112702437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920614570.jpg?20260610112702857</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2921014570.jpg?20260610112709467</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920914570.jpg?20260610112708950</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920814570.jpg?20260610112708467</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/814570/2920714570.jpg?20260610112703327</url>
-    </image>
-    <num_beds>0</num_beds>
-    <num_baths>2</num_baths>
-    <num_units>1</num_units>
-    <price>1650 BRL</price>
-    <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-151914570</home_listing_id>
     <name>Sala comercial para alugar, 42.00 m2 por R$750.00  - Parque Bela Vista - Apucarana/PR</name>
     <availability>for_rent</availability>
@@ -1327,92 +1204,42 @@
     <longitude>-51.4387307</longitude>
     <neighborhood>JARDIM INDEPENDENCIA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2617014570.jpg?20260608162049280</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2617014570.jpg?20260617115746653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616914570.jpg?20260608162048857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616914570.jpg?20260617115746247</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616714570.jpg?20260608162048030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616714570.jpg?20260617115745433</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616314570.jpg?20260608162046327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616314570.jpg?20260617115743763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2615914570.jpg?20260608162044983</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2615914570.jpg?20260617115742433</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616014570.jpg?20260608162045420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616014570.jpg?20260617115742920</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616114570.jpg?20260608162045890</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616114570.jpg?20260617115743340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616414570.jpg?20260608162046747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616414570.jpg?20260617115744170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616514570.jpg?20260608162047170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616514570.jpg?20260617115744560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616614570.jpg?20260608162047560</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616614570.jpg?20260617115745030</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616814570.jpg?20260608162048450</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/28714570/2616814570.jpg?20260617115745827</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
     <num_units>1</num_units>
     <price>990 BRL</price>
-    <property_type>house</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
-    <home_listing_id>14570-171314570</home_listing_id>
-    <name>Casa Residencial com 1 quarto  para alugar, 60.00 m2 por R$690.00  - Loteamento Santa Candida - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Casa Residencial com 1 quarto para alugar, 60.00 m2 por R$690.00 - Loteamento Santa Candida - Apucarana/PR » Proprietário cede o desconto de R$200,00 no valor do aluguel nos 3 primeiros meses!!! Residência de madeira localizada na Rua Saul Guimarães da Costa, 127. Bairro da Igrejinha. Apucarana - PR. O imóvel conta com: » 01 Quarto. » Sala. » Cozinha. » Banheiro. » Lavanderia. » Garagem. IPTU por conta do inquilino.</description>
-    <address format="simple">
-      <component name="addr1">Saul Guimaraes Da Costa 127</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86802670</component>
-    </address>
-    <latitude>-23.5690221</latitude>
-    <longitude>-51.4599308</longitude>
-    <neighborhood>LOTEAMENTO SANTA CANDIDA</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393714570.jpg?20260611115055060</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393414570.jpg?20260611115053840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393514570.jpg?20260611115054293</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393614570.jpg?20260611115054670</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393814570.jpg?20260611115055560</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2393914570.jpg?20260611115055967</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2394014570.jpg?20260611115056357</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2394214570.jpg?20260611115057230</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171314570/2394114570.jpg?20260611115056733</url>
-    </image>
-    <num_beds>1</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>690 BRL</price>
     <property_type>house</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
@@ -1695,43 +1522,43 @@
     <longitude>-51.4228271</longitude>
     <neighborhood>JARDIM AEROPORTO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777714570.jpg?20260611173401747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777714570.jpg?20260618165831980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777814570.jpg?20260611173402170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777814570.jpg?20260618165832280</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777914570.jpg?20260611173402467</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/777914570.jpg?20260618165832513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778014570.jpg?20260611173402717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778014570.jpg?20260618165832730</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778114570.jpg?20260611173403013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778114570.jpg?20260618165832933</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778214570.jpg?20260611173403310</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778214570.jpg?20260618165833137</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778314570.jpg?20260611173403607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778314570.jpg?20260618165833373</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778514570.jpg?20260611173403793</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778514570.jpg?20260618165833530</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778614570.jpg?20260611173403980</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778614570.jpg?20260618165833670</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778714570.jpg?20260611173404187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778714570.jpg?20260618165833873</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778814570.jpg?20260611173404420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778814570.jpg?20260618165834107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778914570.jpg?20260611173404607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/778914570.jpg?20260618165834280</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/779014570.jpg?20260611173404827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/171914570/779014570.jpg?20260618165834497</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -2005,25 +1832,25 @@
     </address>
     <neighborhood>JARDIM FLAMINGOS</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837614570.jpg?20260209130049123</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837614570.jpg?20260619132004153</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837714570.jpg?20260209130049340</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837714570.jpg?20260619132004403</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837814570.jpg?20260209130049497</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837814570.jpg?20260619132004637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837914570.jpg?20260209130049717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/837914570.jpg?20260619132004903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838014570.jpg?20260209130049937</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838014570.jpg?20260619132005137</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838114570.jpg?20260209130050107</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838114570.jpg?20260619132005293</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838214570.jpg?20260209130050263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/181414570/838214570.jpg?20260619132005467</url>
     </image>
     <num_beds>1</num_beds>
     <num_baths>1</num_baths>
@@ -2122,46 +1949,46 @@
     <longitude>-51.4320860</longitude>
     <neighborhood>NUCLEO HABITACIONAL CASTE</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404714570.jpg?20260610103507123</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404714570.jpg?20260617114019467</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404814570.jpg?20260610103507543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404814570.jpg?20260617114019840</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404914570.jpg?20260610103507997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2404914570.jpg?20260617114020310</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405414570.jpg?20260610103509937</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405414570.jpg?20260617114022247</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405014570.jpg?20260610103508357</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405014570.jpg?20260617114020687</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405214570.jpg?20260610103509187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405214570.jpg?20260617114021467</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405314570.jpg?20260610103509560</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405314570.jpg?20260617114021873</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405514570.jpg?20260610103510420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405514570.jpg?20260617114022623</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405114570.jpg?20260610103508763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405114570.jpg?20260617114021090</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405614570.jpg?20260610103510780</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405614570.jpg?20260617114022980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405714570.jpg?20260610103511153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405714570.jpg?20260617114023357</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405814570.jpg?20260610103511530</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405814570.jpg?20260617114023717</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405914570.jpg?20260610103511920</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2405914570.jpg?20260617114024123</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2406014570.jpg?20260610103512327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/256114570/2406014570.jpg?20260617114024530</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -2380,68 +2207,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-37514570</home_listing_id>
-    <name>Apartamento com 3 quartos  para alugar, 125.00 m2 por R$2350.00  - Centro - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Apartamento com 3 quartos para alugar, 125.00 m2 por R$2350.00 - Centro - Apucarana/PR Apartamento Edifício Centauro (Rua Doutor Nagib Daher, nº 1200 - Apto. 501, Centro) - contendo 03 quartos, sendo 01 suíte, sala, cozinha planejada, banheiro, área de serviço, banheiro para empregada, churrasqueira e 02 vagas de garagem. * Próximo do Posto Fama. Condomínio de aproximadamente R$650,00 SEM IPTU</description>
-    <address format="simple">
-      <component name="addr1">Doutor Nagib Daher 1200</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86800040</component>
-    </address>
-    <latitude>-23.5530165</latitude>
-    <longitude>-51.4556691</longitude>
-    <neighborhood>CENTRO</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2891914570.jpg?20260609092420437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889914570.jpg?20260609092419560</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889114570.jpg?20260609092417653</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889014570.jpg?20260609092417403</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889214570.jpg?20260609092417890</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889614570.jpg?20260609092418840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889314570.jpg?20260609092418107</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889514570.jpg?20260609092418590</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889414570.jpg?20260609092418340</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889814570.jpg?20260609092419327</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2890014570.jpg?20260609092419793</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2890114570.jpg?20260609092420043</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/37514570/2889714570.jpg?20260609092419090</url>
-    </image>
-    <num_beds>3</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>2350 BRL</price>
-    <property_type>apartment</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-271114570</home_listing_id>
     <name>Sala comercial para alugar, 65.00 m2 por R$1200.00  - Centro - Apucarana/PR</name>
     <availability>for_rent</availability>
@@ -2642,53 +2407,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-280414570</home_listing_id>
-    <name>Sala comercial para alugar, 50.00 m2 por R$1900.00  - Jardim Sao Pedro - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Sala comercial para alugar, 50.00 m2 por R$1900.00 - Jardim Sao Pedro - Apucarana/PR</description>
-    <address format="simple">
-      <component name="addr1">Professora Talita Bresolin 472</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86802390</component>
-    </address>
-    <latitude>-23.5603117</latitude>
-    <longitude>-51.4585039</longitude>
-    <neighborhood>JARDIM SAO PEDRO</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663714570.jpg?20260612104024840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663014570.jpg?20260612104022043</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663114570.jpg?20260612104022450</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663614570.jpg?20260612104024437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663214570.jpg?20260612104022857</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663314570.jpg?20260612104023247</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663514570.jpg?20260612104024030</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280414570/2663414570.jpg?20260612104023640</url>
-    </image>
-    <num_beds>0</num_beds>
-    <num_baths>0</num_baths>
-    <num_units>1</num_units>
-    <price>1900 BRL</price>
-    <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-280514570</home_listing_id>
     <name>Sala comercial para alugar, 50.00 m2 por R$1900.00  - Jardim Sao Pedro - Apucarana/PR</name>
     <availability>for_rent</availability>
@@ -2705,25 +2423,25 @@
     <longitude>-51.4585039</longitude>
     <neighborhood>JARDIM SAO PEDRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664314570.jpg?20260612104027247</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664314570.jpg?20260615180213967</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664414570.jpg?20260612104027730</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664414570.jpg?20260615180214467</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2663814570.jpg?20260612104025340</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2663814570.jpg?20260615180212030</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664214570.jpg?20260612104026857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664214570.jpg?20260615180213513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2663914570.jpg?20260612104025717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2663914570.jpg?20260615180212390</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664014570.jpg?20260612104026107</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664014570.jpg?20260615180212763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664114570.jpg?20260612104026480</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280514570/2664114570.jpg?20260615180213140</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -2920,56 +2638,6 @@
     <num_units>1</num_units>
     <price>2000 BRL</price>
     <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
-    <home_listing_id>14570-292614570</home_listing_id>
-    <name>Casa Residencial para alugar, 80.00 m2 por R$950.00  - Residencial Parque Da Raposa Iii - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Casa Residencial para alugar, 80.00 m2 por R$950.00 - Residencial Parque Da Raposa Iii - Apucarana/PR Imóvel localizado na Rua Carlos Joaquim Dias Neves, N°90 Parque da Raposa III (Próximo a APAE) O imóvel contém: » 02 quartos » Sala » Cozinha » WC Social » Lavanderia » Garagem e churrasqueira IPTU por conta do locador</description>
-    <address format="simple">
-      <component name="addr1">Carlos Joaquim Dias Neves 90</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86812682</component>
-    </address>
-    <latitude>-23.5477404</latitude>
-    <longitude>-51.4181839</longitude>
-    <neighborhood>RESIDENCIAL PARQUE DA RAPOSA III</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854914570.jpg?20260610111039840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2855214570.jpg?20260610111040437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2853914570.jpg?20260610111037497</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2855514570.jpg?20260610111040810</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854114570.jpg?20260610111038263</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854014570.jpg?20260610111037890</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854214570.jpg?20260610111038653</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854814570.jpg?20260610111039437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292614570/2854314570.jpg?20260610111039043</url>
-    </image>
-    <num_beds>0</num_beds>
-    <num_baths>0</num_baths>
-    <num_units>1</num_units>
-    <price>950 BRL</price>
-    <property_type>house</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
@@ -3182,37 +2850,37 @@
     <longitude>-51.4240067</longitude>
     <neighborhood>RESIDENCIAL PARQUE DA RAPOSA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897714570.jpg?20260417142646513</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897714570.jpg?20260617130819433</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896314570.jpg?20260417142642577</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896314570.jpg?20260617130815373</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896514570.jpg?20260417142643090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896514570.jpg?20260617130815780</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896614570.jpg?20260417142643480</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896614570.jpg?20260617130816327</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896814570.jpg?20260417142643873</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896814570.jpg?20260617130816700</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896914570.jpg?20260417142644263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2896914570.jpg?20260617130817060</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897014570.jpg?20260417142644623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897014570.jpg?20260617130817450</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897214570.jpg?20260417142645390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897214570.jpg?20260617130818230</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897114570.jpg?20260417142644997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897114570.jpg?20260617130817827</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897314570.jpg?20260417142645763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897314570.jpg?20260617130818607</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897514570.jpg?20260417142646140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294914570/2897514570.jpg?20260617130819060</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -3327,52 +2995,52 @@
     <longitude>-51.4583691</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916914570.jpg?20260609103009700</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916914570.jpg?20260618165254043</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916814570.jpg?20260609103009293</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916814570.jpg?20260618165253683</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916714570.jpg?20260609103008873</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916714570.jpg?20260618165253293</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917314570.jpg?20260609103010187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917314570.jpg?20260618165254513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917814570.jpg?20260609103011857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917814570.jpg?20260618165256183</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917914570.jpg?20260609103012263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917914570.jpg?20260618165256543</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917514570.jpg?20260609103011090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917514570.jpg?20260618165255340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917714570.jpg?20260609103011467</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917714570.jpg?20260618165255730</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918114570.jpg?20260609103013030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918114570.jpg?20260618165257263</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916114570.jpg?20260609103008077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916114570.jpg?20260618165252530</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916414570.jpg?20260609103008437</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2916414570.jpg?20260618165252920</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918414570.jpg?20260609103013840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918414570.jpg?20260618165257997</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918514570.jpg?20260609103014217</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918514570.jpg?20260618165258340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918014570.jpg?20260609103012653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918014570.jpg?20260618165256903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918214570.jpg?20260609103013420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2918214570.jpg?20260618165257637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917414570.jpg?20260609103010640</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/296014570/2917414570.jpg?20260618165254873</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -3398,40 +3066,40 @@
     <longitude>-51.4893277</longitude>
     <neighborhood>RESIDENCIAL INTERLAGOS</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962114570.jpg?20260610111043577</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962114570.jpg?20260618110535700</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962314570.jpg?20260610111044717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962314570.jpg?20260618110536857</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963414570.jpg?20260610111048263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963414570.jpg?20260618110543903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962614570.jpg?20260610111045763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962614570.jpg?20260618110539263</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962414570.jpg?20260610111045077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962414570.jpg?20260618110537560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962514570.jpg?20260610111045420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962514570.jpg?20260618110538357</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962814570.jpg?20260610111046123</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962814570.jpg?20260618110539780</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962914570.jpg?20260610111046480</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2962914570.jpg?20260618110540607</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963014570.jpg?20260610111046827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963014570.jpg?20260618110541230</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963114570.jpg?20260610111047170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963114570.jpg?20260618110541967</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963214570.jpg?20260610111047543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963214570.jpg?20260618110542653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963314570.jpg?20260610111047903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/299714570/2963314570.jpg?20260618110543247</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>1</num_baths>
@@ -3590,46 +3258,46 @@
     <longitude>-51.4298277</longitude>
     <neighborhood>JARDIM TAROBA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971214570.jpg?20260608173159670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971214570.jpg?20260619163556357</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971414570.jpg?20260608173200140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971414570.jpg?20260619163556810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971514570.jpg?20260608173200530</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971514570.jpg?20260619163557183</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971114570.jpg?20260608173159263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971114570.jpg?20260619163555980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970214570.jpg?20260608173155780</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970214570.jpg?20260619163552433</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970414570.jpg?20260608173156543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970414570.jpg?20260619163553200</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970514570.jpg?20260608173156903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970514570.jpg?20260619163553560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970614570.jpg?20260608173157280</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970614570.jpg?20260619163553903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970714570.jpg?20260608173157623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970714570.jpg?20260619163554310</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971614570.jpg?20260608173200920</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971614570.jpg?20260619163557530</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970314570.jpg?20260608173156153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970314570.jpg?20260619163552827</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970814570.jpg?20260608173158060</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970814570.jpg?20260619163554717</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971014570.jpg?20260608173158890</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2971014570.jpg?20260619163555590</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970914570.jpg?20260608173158483</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300714570/2970914570.jpg?20260619163555217</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>1</num_baths>
@@ -3655,37 +3323,37 @@
     <longitude>-51.4562414</longitude>
     <neighborhood>VILA SANTA HELENA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891314570.jpg?20260525105916873</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891314570.jpg?20260616161603013</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891414570.jpg?20260525105917390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891414570.jpg?20260616161603513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891014570.jpg?20260525105916420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891014570.jpg?20260616161602530</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890214570.jpg?20260525105914497</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890214570.jpg?20260616161600357</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891514570.jpg?20260525105917763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891514570.jpg?20260616161603890</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890514570.jpg?20260525105915263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890514570.jpg?20260616161601140</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890714570.jpg?20260525105915640</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890714570.jpg?20260616161601513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891614570.jpg?20260525105918187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891614570.jpg?20260616161604263</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891714570.jpg?20260525105918607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2891714570.jpg?20260616161604640</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890314570.jpg?20260525105914873</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890314570.jpg?20260616161600763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890914570.jpg?20260525105916030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/42414570/2890914570.jpg?20260616161601997</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -3755,40 +3423,40 @@
     <longitude>-51.4529010</longitude>
     <neighborhood>VILA SAO JOSE BASSA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969914570.jpg?20260611171512497</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969914570.jpg?20260619162320387</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969114570.jpg?20260611171510513</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969114570.jpg?20260619162318293</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2970114570.jpg?20260611171512950</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2970114570.jpg?20260619162320887</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969314570.jpg?20260611171511327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969314570.jpg?20260619162319090</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969214570.jpg?20260611171510950</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969214570.jpg?20260619162318683</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062514570.jpg?20260611171509140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062514570.jpg?20260619162316887</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1063214570.jpg?20260611171510090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1063214570.jpg?20260619162317903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062614570.jpg?20260611171509373</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062614570.jpg?20260619162317137</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969514570.jpg?20260611171512090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969514570.jpg?20260619162319920</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062814570.jpg?20260611171509640</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1062814570.jpg?20260619162317403</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1063014570.jpg?20260611171509857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/1063014570.jpg?20260619162317653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969414570.jpg?20260611171511717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/49314570/2969414570.jpg?20260619162319530</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -3814,34 +3482,34 @@
     <longitude>-51.4234827</longitude>
     <neighborhood>RESIDENCIAL PARQUE DA RAPOSA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029214570.jpg?20260611092841077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029214570.jpg?20260616090010200</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029414570.jpg?20260611092841530</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029414570.jpg?20260616090010653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029514570.jpg?20260611092841903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029514570.jpg?20260616090011013</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029714570.jpg?20260611092842293</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029714570.jpg?20260616090011390</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029914570.jpg?20260611092843030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029914570.jpg?20260616090012107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030714570.jpg?20260611092844560</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030714570.jpg?20260616090013560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030414570.jpg?20260611092843403</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030414570.jpg?20260616090012450</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030514570.jpg?20260611092843780</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030514570.jpg?20260616090012810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030614570.jpg?20260611092844170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2030614570.jpg?20260616090013200</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029814570.jpg?20260611092842653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/247214570/2029814570.jpg?20260616090011747</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -4029,40 +3697,40 @@
     <longitude>-51.4786025</longitude>
     <neighborhood>VILA REGINA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853014570.jpg?20260520132002890</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853014570.jpg?20260618171003107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853214570.jpg?20260520132003437</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853214570.jpg?20260618171003670</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853614570.jpg?20260520132004577</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853614570.jpg?20260618171004810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852514570.jpg?20260520132001030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852514570.jpg?20260618171001107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852614570.jpg?20260520132001390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852614570.jpg?20260618171001480</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853414570.jpg?20260520132003810</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853414570.jpg?20260618171004043</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852414570.jpg?20260520132000670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852414570.jpg?20260618171000637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853514570.jpg?20260520132004170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853514570.jpg?20260618171004420</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852714570.jpg?20260520132001763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852714570.jpg?20260618171001887</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852814570.jpg?20260520132002123</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852814570.jpg?20260618171002280</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853814570.jpg?20260520132004950</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2853814570.jpg?20260618171005230</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852914570.jpg?20260520132002483</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/292814570/2852914570.jpg?20260618171002700</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -4249,37 +3917,37 @@
     <longitude>-51.4918019</longitude>
     <neighborhood>NUCLEO HABITACIONAL PAPA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863214570.jpg?20260611094804903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863214570.jpg?20260617132945840</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863414570.jpg?20260611094805840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863414570.jpg?20260617132946717</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864414570.jpg?20260611094808937</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864414570.jpg?20260617132949683</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864314570.jpg?20260611094808530</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864314570.jpg?20260617132949327</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863614570.jpg?20260611094806200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863614570.jpg?20260617132947077</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863714570.jpg?20260611094806590</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863714570.jpg?20260617132947420</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863814570.jpg?20260611094806997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2863814570.jpg?20260617132947780</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864214570.jpg?20260611094808153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864214570.jpg?20260617132948967</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864114570.jpg?20260611094807780</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864114570.jpg?20260617132948590</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864014570.jpg?20260611094807390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864014570.jpg?20260617132948137</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864514570.jpg?20260611094805420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/53614570/2864514570.jpg?20260617132946327</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -4383,6 +4051,89 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
+    <home_listing_id>14570-165114570</home_listing_id>
+    <name>Sobrado proximo Mercado Viana</name>
+    <availability>for_rent</availability>
+    <listing_type>for_rent_by_agent</listing_type>
+    <description>Sobrado proximo Mercado Viana Sobrado na Avenida: Aviação 2927 Contendo: 2 quartos c- armários Sala com Home Cozinha com armários planejados (cooktop) WC Social Lavabo Aréa de serviço Garagem Edicula com aréa gourmet com 1 quarto e WC Churrasqueira, Balcão e Mesa Valor do aluguel + Seguro incêndio. IPTU por conta do proprietário.</description>
+    <address format="simple">
+      <component name="addr1">Aviação 2927</component>
+      <component name="city">APUCARANA</component>
+      <component name="region">PR</component>
+      <component name="country">Brasil</component>
+      <component name="postal_code">86807000</component>
+    </address>
+    <latitude>-23.5518696</latitude>
+    <longitude>-51.4181626</longitude>
+    <neighborhood>NUCLEO HABITACIONAL COLONIAL</neighborhood>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2986614570.jpg?20260619154141857</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2986714570.jpg?20260619154142357</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987014570.jpg?20260619154143123</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2986914570.jpg?20260619154142730</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987114570.jpg?20260619154143530</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2984714570.jpg?20260619154137920</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985414570.jpg?20260619154140217</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985514570.jpg?20260619154140590</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2986114570.jpg?20260619154141403</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2984814570.jpg?20260619154138293</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2984914570.jpg?20260619154138683</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985014570.jpg?20260619154139060</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985114570.jpg?20260619154139433</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985614570.jpg?20260619154140997</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987214570.jpg?20260619154143903</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987314570.jpg?20260619154144293</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987414570.jpg?20260619154144670</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987514570.jpg?20260619154145043</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2985314570.jpg?20260619154139840</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/165114570/2987614570.jpg?20260619154145420</url>
+    </image>
+    <num_beds>0</num_beds>
+    <num_baths>2</num_baths>
+    <num_units>1</num_units>
+    <price>1200 BRL</price>
+    <property_type>other</property_type>
+    <url>https://www.joharc.com.br</url>
+  </listing>
+  <listing>
     <home_listing_id>14570-82514570</home_listing_id>
     <name>Sala comercial para alugar, 301.10 m2 por R$3000.00  - Vila Sao Jose - Apucarana/PR</name>
     <availability>for_rent</availability>
@@ -4430,65 +4181,6 @@
     <num_units>1</num_units>
     <price>4000 BRL</price>
     <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
-    <home_listing_id>14570-89014570</home_listing_id>
-    <name>Apartamento com 3 quartos  para alugar, 85.00 m2 por R$1250.00  - Vila Sao Jose - Apucarana/PR</name>
-    <availability>for_rent</availability>
-    <listing_type>for_rent_by_agent</listing_type>
-    <description>Apartamento com 3 quartos para alugar, 85.00 m2 por R$1250.00 - Vila Sao Jose - Apucarana/PR Apartamento de alvenaria (Rua Jose Alves de Paula Filho, nº 53 - Apto 02 - Centro) Contendo: 03 quartos, 02 salas, Copa Cozinha sem armários Banheiro área de serviço. Imóvel sem garagem.</description>
-    <address format="simple">
-      <component name="addr1">Jose Alves De Paula Filho 53</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86808440</component>
-    </address>
-    <latitude>-23.5507471</latitude>
-    <longitude>-51.4537733</longitude>
-    <neighborhood>VILA SAO JOSE</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955214570.jpg?20260610094036810</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955114570.jpg?20260610094036373</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2956014570.jpg?20260610094039200</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955514570.jpg?20260610094037293</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955614570.jpg?20260610094037653</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955714570.jpg?20260610094038013</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955814570.jpg?20260610094038450</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2956214570.jpg?20260610094039920</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2955914570.jpg?20260610094038840</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2956114570.jpg?20260610094039543</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2956314570.jpg?20260610094040247</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/89014570/2956414570.jpg?20260610094040590</url>
-    </image>
-    <num_beds>3</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>1250 BRL</price>
-    <property_type>apartment</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
@@ -4705,37 +4397,37 @@
     <longitude>-51.4694594</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635414570.jpg?20260611115051607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635414570.jpg?20260616113319060</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635314570.jpg?20260611115051217</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635314570.jpg?20260616113318670</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634414570.jpg?20260611115047467</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634414570.jpg?20260616113315170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634514570.jpg?20260611115047857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634514570.jpg?20260616113315560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634614570.jpg?20260611115048247</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634614570.jpg?20260616113315950</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634714570.jpg?20260611115048653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634714570.jpg?20260616113316340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634814570.jpg?20260611115049030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634814570.jpg?20260616113316730</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634914570.jpg?20260611115049420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2634914570.jpg?20260616113317107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635014570.jpg?20260611115049950</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635014570.jpg?20260616113317497</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635114570.jpg?20260611115050420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635114570.jpg?20260616113317903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635214570.jpg?20260611115050827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/281714570/2635214570.jpg?20260616113318293</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -4761,40 +4453,40 @@
     <longitude>-51.4527306</longitude>
     <neighborhood>VILA SAO JOSE</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321714570.jpg?20260527170031153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321714570.jpg?20260617173606810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321814570.jpg?20260527170031437</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321814570.jpg?20260617173607123</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321914570.jpg?20260527170031640</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1321914570.jpg?20260617173607340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322014570.jpg?20260527170031857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322014570.jpg?20260617173607560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322114570.jpg?20260527170032077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322114570.jpg?20260617173607763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322214570.jpg?20260527170032293</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322214570.jpg?20260617173607980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322314570.jpg?20260527170032497</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322314570.jpg?20260617173608217</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322414570.jpg?20260527170032747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322414570.jpg?20260617173608450</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322514570.jpg?20260527170032980</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322514570.jpg?20260617173608700</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322614570.jpg?20260527170033200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322614570.jpg?20260617173609387</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322714570.jpg?20260527170033437</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322714570.jpg?20260617173609637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322814570.jpg?20260527170033670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/1014570/1322814570.jpg?20260617173609840</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -4820,34 +4512,34 @@
     <longitude>-51.4582998</longitude>
     <neighborhood>VILA SAO PAULO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364114570.jpg?20260519154141170</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364114570.jpg?20260618152306653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364214570.jpg?20260519154141357</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364214570.jpg?20260618152306933</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364314570.jpg?20260519154141543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364314570.jpg?20260618152307107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364414570.jpg?20260519154141670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364414570.jpg?20260618152307280</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364514570.jpg?20260519154141793</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364514570.jpg?20260618152307403</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364614570.jpg?20260519154141920</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364614570.jpg?20260618152307543</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364714570.jpg?20260519154142077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364714570.jpg?20260618152307730</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364814570.jpg?20260519154142200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364814570.jpg?20260618152307887</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364914570.jpg?20260519154142373</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1364914570.jpg?20260618152308043</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1365014570.jpg?20260519154142513</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/74814570/1365014570.jpg?20260618152308217</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -7544,28 +7236,28 @@
     <longitude>-51.4466138</longitude>
     <neighborhood>VILA AGARI</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390414570.jpg?20260610172244997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390414570.jpg?20260618141840683</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390114570.jpg?20260610172244090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390114570.jpg?20260618141839637</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390014570.jpg?20260610172243763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390014570.jpg?20260618141839293</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390214570.jpg?20260610172244390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390214570.jpg?20260618141839950</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390314570.jpg?20260610172244700</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390314570.jpg?20260618141840373</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390514570.jpg?20260610172245420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390514570.jpg?20260618141841217</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390614570.jpg?20260610172245763</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390614570.jpg?20260618141841670</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390714570.jpg?20260610172246140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/270214570/2390714570.jpg?20260618141841997</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -8179,68 +7871,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-272614570</home_listing_id>
-    <name>Terreno à venda, 268.62 m2 por R$320000.00  - Vila Nossa Senhora Da Conceicao - Apucarana/PR</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <description>Terreno à venda, 268.62 m2 por R$320000.00 - Vila Nossa Senhora Da Conceicao - Apucarana/PR TERRENO DE ESQUINA EM CONDOMÍNIO FECHADO (CIDADE JARDIM): O empreendimento conta com portaria 24 horas, todo murado, câmeras, monitoramento por drone, oferecendo SEGURANÇA COMPLETA! ÁREA SOCIAL: - CLUBE COM PISCINAS AQUECIDAS ADULTO E INFANTIL; - SALÃO DE FESTAS; - ESPAÇO GOURMET; - ACADEMIA; - CAMPO DE FUTEBOL; - QUADRAS POLIESPORTIVAS; - BRINQUEDOTECA; - PLAYGROUND; - SALÃO DE JOGOS; - ESPAÇO PET; - HORTA COMUNITÁRIA; - ESPAÇO ZEN; - ESPAÇO PET; - PRAÇA DA FOGUEIRA; - CICLOVIA. - Medida: 4,00 m x 14,14 m x 9,00 m x 13,00 m x 22,00 m - Área total: 268,62 m² Obs: Aceita veículo como parte de pagamento.</description>
-    <address format="simple">
-      <component name="addr1">Nova Ukrânia</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86802500</component>
-    </address>
-    <latitude>-23.5895071</latitude>
-    <longitude>-51.4463083</longitude>
-    <neighborhood>VILA NOSSA SENHORA DA CONCEICAO</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2450814570.jpg?20260318155913810</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2450914570.jpg?20260318155914217</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451014570.jpg?20260318155914653</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451114570.jpg?20260318155915013</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451214570.jpg?20260318155915373</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451314570.jpg?20260318155915747</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451414570.jpg?20260318155916247</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451514570.jpg?20260318155916640</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451614570.jpg?20260318155917153</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451714570.jpg?20260318155917513</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451814570.jpg?20260318155917890</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2451914570.jpg?20260318155918263</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/272614570/2452014570.jpg?20260318155918653</url>
-    </image>
-    <num_beds>0</num_beds>
-    <num_baths>0</num_baths>
-    <num_units>1</num_units>
-    <price>320000 BRL</price>
-    <property_type>land</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-273614570</home_listing_id>
     <name>Casa Residencial com 2 quartos  à venda, 47.00 m2 por R$180000.00  - Nucleo Habitacional Castelo Branco - Apucarana/PR</name>
     <availability>for_sale</availability>
@@ -8753,65 +8383,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-277214570</home_listing_id>
-    <name>Casa Residencial com 2 quartos  à venda, 110.00 m2 por R$300000.00  - Vila Nova - Apucarana/PR</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <description>Casa Residencial com 2 quartos à venda, 110.00 m2 por R$300000.00 - Vila Nova - Apucarana/PR CASA EM ALVENARIA E FORRO DE MADEIRA, CONTENDO: - 02 Quartos; - 01 Sala; - 01 Cozinha; - 01 BWC; - 01 Lavanderia; - Garagem paralela para dois carros. - Medidas: 12 m x 29,15 m - Área Construída: 110 m² - Área Total: 349,80 m²</description>
-    <address format="simple">
-      <component name="addr1">Aviação</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86812500</component>
-    </address>
-    <latitude>-23.5531015</latitude>
-    <longitude>-51.4272489</longitude>
-    <neighborhood>VILA NOVA</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548114570.jpg?20260612113502793</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548214570.jpg?20260612113503187</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548514570.jpg?20260612113504200</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2547914570.jpg?20260612113501640</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548014570.jpg?20260612113502437</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548314570.jpg?20260612113503560</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548814570.jpg?20260612113502077</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2549014570.jpg?20260612113505590</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548414570.jpg?20260612113503903</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548714570.jpg?20260612113504890</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548914570.jpg?20260612113505230</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/277214570/2548614570.jpg?20260612113504543</url>
-    </image>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>300000 BRL</price>
-    <property_type>house</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-278314570</home_listing_id>
     <name>Terreno à venda, 427.70 m2 por R$150000.00  - Centro - Marilandia Do Sul/PR</name>
     <availability>for_sale</availability>
@@ -8878,22 +8449,22 @@
     <longitude>-51.4638893</longitude>
     <neighborhood>LOTEAMENTO RECANTO DO LAG</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2597914570.jpg?20260318161511857</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2597914570.jpg?20260617162458980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598014570.jpg?20260318161512230</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598014570.jpg?20260617162459340</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598114570.jpg?20260318161512623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598114570.jpg?20260617162459700</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598214570.jpg?20260318161513013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598214570.jpg?20260617162500043</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598314570.jpg?20260318161513390</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598314570.jpg?20260617162500403</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598414570.jpg?20260318161513840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/279014570/2598414570.jpg?20260617162500887</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -9148,7 +8719,7 @@
     <name>Casa Residencial com 3 quartos  à venda, 296.54 m2 por R$860000.00  - Jardim Presidente Kennedy - Apucarana/PR</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
-    <description>Casa Residencial com 3 quartos à venda, 296.54 m2 por R$860000.00 - Jardim Presidente Kennedy - Apucarana/PR CASA EM ALVENARIA ASSOBRADADA (LAJE), CONTENDO: - 01 Suíte com closet, banheira hidro e sacada; - 02 Dormitórios com armários; - 01 Hall; - 01 Sala de TV com lavabo; - 01 Sala de jantar com jardim de inverno; - 01 Elevador com acesso a garagem; - 01 Área gourmet com churrasqueira, pia, WC, salão e despensa; - Garagem paralela; - Lavanderia. - Medidas: 12 m x 33 m - Área Construída: 296,54 m² - Área Total: 396,00 m² SIM APTO A FINANCIAMENTO.</description>
+    <description>Casa Residencial com 3 quartos à venda, 296.54 m2 por R$860000.00 - Jardim Presidente Kennedy - Apucarana/PR Casa em alvenaria assobradada (laje) contendo: * 3 quartos, sendo 1 suíte com closet, banheira de hidromassagem e sacada * Sala de TV com lavabo * Sala de jantar * Hall de entrada * Lavanderia * Jardim de inverno * Área gourmet com churrasqueira e pia * Salão * Banheiro social * Despensa * Elevador com acesso à garagem * Garagem paralela Medidas: 12 m x 33 m Área construída: 296,54 m² Área total: 396,00 m² Observações: * Imóvel apto para financiamento</description>
     <address format="simple">
       <component name="addr1">René Camargo de Azambuja 1694</component>
       <component name="city">APUCARANA</component>
@@ -9160,109 +8731,109 @@
     <longitude>-51.4555094</longitude>
     <neighborhood>JARDIM PRESIDENTE KENNEDY</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604514570.jpg?20260521101427090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604514570.jpg?20260616110438747</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602814570.jpg?20260521101420450</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602814570.jpg?20260616110433170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604114570.jpg?20260521101425623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604114570.jpg?20260616110437450</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602614570.jpg?20260521101419733</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602614570.jpg?20260616110432513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2601914570.jpg?20260521101417140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2601914570.jpg?20260616110430123</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602314570.jpg?20260521101418623</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602314570.jpg?20260616110431450</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603714570.jpg?20260521101423937</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603714570.jpg?20260616110436140</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2601814570.jpg?20260521101416717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2601814570.jpg?20260616110429763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602714570.jpg?20260521101420107</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602714570.jpg?20260616110432840</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603914570.jpg?20260521101424747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603914570.jpg?20260616110436793</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602014570.jpg?20260521101417543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602014570.jpg?20260616110430437</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604614570.jpg?20260521101427747</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604614570.jpg?20260616110439187</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603114570.jpg?20260521101421607</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603114570.jpg?20260616110434170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604414570.jpg?20260521101426700</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604414570.jpg?20260616110438403</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603214570.jpg?20260521101421997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603214570.jpg?20260616110434480</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605114570.jpg?20260521101429700</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605114570.jpg?20260616110441013</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605214570.jpg?20260521101430077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605214570.jpg?20260616110441373</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604314570.jpg?20260521101426340</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604314570.jpg?20260616110438077</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602114570.jpg?20260521101417890</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602114570.jpg?20260616110430763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602214570.jpg?20260521101418247</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602214570.jpg?20260616110431107</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602414570.jpg?20260521101419030</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602414570.jpg?20260616110431810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604214570.jpg?20260521101425997</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604214570.jpg?20260616110437763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604714570.jpg?20260521101428090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604714570.jpg?20260616110439513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602914570.jpg?20260521101420810</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602914570.jpg?20260616110433513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603614570.jpg?20260521101423543</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603614570.jpg?20260616110435810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604914570.jpg?20260521101429013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604914570.jpg?20260616110440230</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603314570.jpg?20260521101422373</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603314570.jpg?20260616110434810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603414570.jpg?20260521101422717</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603414570.jpg?20260616110435140</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603514570.jpg?20260521101423187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603514570.jpg?20260616110435467</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604014570.jpg?20260521101425263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604014570.jpg?20260616110437123</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604814570.jpg?20260521101428670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2604814570.jpg?20260616110439873</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605014570.jpg?20260521101429357</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2605014570.jpg?20260616110440623</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602514570.jpg?20260521101419403</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2602514570.jpg?20260616110432187</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603014570.jpg?20260521101421280</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603014570.jpg?20260616110433840</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603814570.jpg?20260521101424263</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/280814570/2603814570.jpg?20260616110436480</url>
     </image>
     <num_beds>3</num_beds>
     <num_baths>1</num_baths>
@@ -10023,80 +9594,6 @@
     <num_baths>1</num_baths>
     <num_units>1</num_units>
     <price>200000 BRL</price>
-    <property_type>house</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
-    <home_listing_id>14570-286714570</home_listing_id>
-    <name>Casa Residencial com 4 quartos  à venda, 111.54 m2 por R$320000.00  - Vila Sao Carlos - Apucarana/PR</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <description>Casa Residencial com 4 quartos à venda, 111.54 m2 por R$320000.00 - Vila Sao Carlos - Apucarana/PR CASA MISTA ( MADEIRA E ALVENARIA ) ( FORRO E LAJE ): - 4 Dormitórios , sendo 1 Suíte e 3 Quartos ; - 1 WC Social ; - 1 Cozinha ; - 1 Sala ; - 1 Lavanderia ; - 1 Garagem coberta para 2 veículos ( gaveta ) - Medidas : 14,00 m x 21,15 m x 16,32 m x 16,92 m - Área Construída : 111,54 m² - Área Total : 286,00 m² OBS : Inventário em Andamento : SIM APTO A FINANCIAMENTO.</description>
-    <address format="simple">
-      <component name="addr1">Noboru Fukuchima 380</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86800350</component>
-    </address>
-    <latitude>-23.5578837</latitude>
-    <longitude>-51.4738991</longitude>
-    <neighborhood>VILA SAO CARLOS</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729614570.jpg?20260428093734247</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729914570.jpg?20260428093735670</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2728714570.jpg?20260428093729823</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729514570.jpg?20260428093733747</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729714570.jpg?20260428093734730</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2730014570.jpg?20260428093736120</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2728814570.jpg?20260428093730280</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2728914570.jpg?20260428093730780</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729414570.jpg?20260428093733340</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729814570.jpg?20260428093735153</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729214570.jpg?20260428093732357</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729314570.jpg?20260428093732823</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729014570.jpg?20260428093731357</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2730214570.jpg?20260428093738480</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2729114570.jpg?20260428093731887</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2730114570.jpg?20260428093736590</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/286714570/2730314570.jpg?20260428093738857</url>
-    </image>
-    <num_beds>4</num_beds>
-    <num_baths>1</num_baths>
-    <num_units>1</num_units>
-    <price>320000 BRL</price>
     <property_type>house</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
@@ -11190,10 +10687,10 @@
   </listing>
   <listing>
     <home_listing_id>14570-294514570</home_listing_id>
-    <name>Terreno à venda, 0.00 m2 por R$4000000.00  - Jardim Recanto Dos Palmares - Apucarana/PR</name>
+    <name>Terreno à venda, 11634.28 m2 por R$4000000.00  - Jardim Recanto Dos Palmares - Apucarana/PR</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
-    <description>Terreno à venda, 0.00 m2 por R$4000000.00 - Jardim Recanto Dos Palmares - Apucarana/PR - TERRENO COM EXELENTE TOPOGRAFIA E FRENTE PARA 3 RUAS : - Medidas : 176,19 X 57,70 - Área Total : 11.634,28 m²</description>
+    <description>Terreno à venda, 11634.28 m2 por R$4000000.00 - Jardim Recanto Dos Palmares - Apucarana/PR - TERRENO COM EXELENTE TOPOGRAFIA E FRENTE PARA 3 RUAS : - Medidas : 176,19 X 57,70 - Área Total : 11.634,28 m²</description>
     <address format="simple">
       <component name="addr1">Canela</component>
       <component name="city">APUCARANA</component>
@@ -11205,19 +10702,19 @@
     <longitude>-51.4626843</longitude>
     <neighborhood>JARDIM RECANTO DOS PALMARES</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911514570.jpg?20260526085822420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911514570.jpg?20260615160322980</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911414570.jpg?20260526085821920</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911414570.jpg?20260615160322513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911614570.jpg?20260526085823013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911614570.jpg?20260615160323530</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911714570.jpg?20260526085823513</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911714570.jpg?20260615160324013</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911814570.jpg?20260526085824077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294514570/2911814570.jpg?20260615160324560</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -11299,13 +10796,13 @@
     <longitude>-51.5874918</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886614570.jpg?20260413114047903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886614570.jpg?20260616154043857</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886714570.jpg?20260413114048280</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886714570.jpg?20260616154044217</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886814570.jpg?20260413114048483</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/294214570/2886814570.jpg?20260616154044420</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -12270,34 +11767,28 @@
     <longitude>-51.5874918</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947114570.jpg?20260523110426187</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993614570.jpg?20260618155852857</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947214570.jpg?20260523110426420</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993514570.jpg?20260618155852560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947314570.jpg?20260523110426670</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2992914570.jpg?20260618155850717</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947414570.jpg?20260523110426903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993414570.jpg?20260618155852137</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947514570.jpg?20260523110427140</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993114570.jpg?20260618155851247</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947614570.jpg?20260523110427590</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993214570.jpg?20260618155851607</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947714570.jpg?20260523110427827</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993314570.jpg?20260618155851903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947814570.jpg?20260523110428013</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2947914570.jpg?20260523110428170</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2948014570.jpg?20260523110428403</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298814570/2993014570.jpg?20260618155850980</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
@@ -12323,40 +11814,40 @@
     <longitude>-51.4320791</longitude>
     <neighborhood>VILA NOVA</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950614570.jpg?20260523103817903</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950614570.jpg?20260615155659763</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950714570.jpg?20260523103818327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950714570.jpg?20260615155700187</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950914570.jpg?20260523103819090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950914570.jpg?20260615155700903</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950814570.jpg?20260523103818653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950814570.jpg?20260615155700543</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2949814570.jpg?20260523103815840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2949814570.jpg?20260615155657607</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950014570.jpg?20260523103816403</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950014570.jpg?20260615155658187</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950414570.jpg?20260523103817327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950414570.jpg?20260615155659200</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2949914570.jpg?20260523103816077</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2949914570.jpg?20260615155657857</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950214570.jpg?20260523103816653</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950214570.jpg?20260615155658480</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950314570.jpg?20260523103816983</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950314570.jpg?20260615155658810</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950514570.jpg?20260523103817577</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/298914570/2950514570.jpg?20260615155659437</url>
     </image>
     <num_beds>3</num_beds>
-    <num_baths>0</num_baths>
+    <num_baths>1</num_baths>
     <num_units>1</num_units>
     <price>400000 BRL</price>
     <property_type>house</property_type>
@@ -12619,25 +12110,25 @@
     <longitude>-51.4482126</longitude>
     <neighborhood>VILA OPERARIA STABILE</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963614570.jpg?20260602151525793</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963614570.jpg?20260618135555513</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963514570.jpg?20260602151525467</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963514570.jpg?20260618135555170</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963714570.jpg?20260602151526200</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963714570.jpg?20260618135555920</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963814570.jpg?20260602151526513</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963814570.jpg?20260618135556280</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963914570.jpg?20260602151526840</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2963914570.jpg?20260618135556653</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2964014570.jpg?20260602151527153</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2964014570.jpg?20260618135556967</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2964114570.jpg?20260602151527497</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300314570/2964114570.jpg?20260618135557280</url>
     </image>
     <num_beds>0</num_beds>
     <num_baths>0</num_baths>
@@ -12739,56 +12230,6 @@
     <url>https://www.joharc.com.br</url>
   </listing>
   <listing>
-    <home_listing_id>14570-300814570</home_listing_id>
-    <name>Barracão/Galpão à venda, 336.27 m2 por R$750000.00  - Vila Sao Miguel - Apucarana/PR</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <description>Barracão/Galpão à venda, 336.27 m2 por R$750000.00 - Vila Sao Miguel - Apucarana/PR Barracão comercial em alvenaria contendo: * Cozinha * 3 banheiros * Mezanino com 36,27 m² * Piso industrial * Portas frontais de grande dimensão Medidas: 36,06 m x 12,00 m x 35,00 m x 12,04 m Área construída: 336,27 m² Área total: 426,36 m² Observações: * Construção em alvenaria (tijolos)</description>
-    <address format="simple">
-      <component name="addr1">Minas Gerais 3200</component>
-      <component name="city">APUCARANA</component>
-      <component name="region">PR</component>
-      <component name="country">Brasil</component>
-      <component name="postal_code">86812490</component>
-    </address>
-    <latitude>-23.6683270</latitude>
-    <longitude>-51.3376879</longitude>
-    <neighborhood>VILA SAO MIGUEL</neighborhood>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2966514570.jpg?20260608135821373</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2967214570.jpg?20260608135823293</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2966614570.jpg?20260608135821623</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2966714570.jpg?20260608135821873</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2966814570.jpg?20260608135822123</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2966914570.jpg?20260608135822373</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2967014570.jpg?20260608135822640</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2967114570.jpg?20260608135822903</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/300814570/2967314570.jpg?20260608135823653</url>
-    </image>
-    <num_beds>0</num_beds>
-    <num_baths>0</num_baths>
-    <num_units>1</num_units>
-    <price>750000 BRL</price>
-    <property_type>other</property_type>
-    <url>https://www.joharc.com.br</url>
-  </listing>
-  <listing>
     <home_listing_id>14570-301314570</home_listing_id>
     <name>Casa Residencial com 2 quartos  à venda, 62.00 m2 por R$235000.00  - Centro - Jandaia Do Sul/PR</name>
     <availability>for_sale</availability>
@@ -12805,40 +12246,267 @@
     <longitude>-51.6178752</longitude>
     <neighborhood>CENTRO</neighborhood>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973414570.jpg?20260612141744013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2989814570.jpg?20260618134326467</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973514570.jpg?20260612141744340</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973414570.jpg?20260618134326153</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973614570.jpg?20260612141744577</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2989914570.jpg?20260618134326747</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2974014570.jpg?20260612141745560</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2990014570.jpg?20260618134326967</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2974114570.jpg?20260612141745793</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2990414570.jpg?20260618134328030</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2974214570.jpg?20260612141746013</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2990214570.jpg?20260618134327560</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973914570.jpg?20260612141745327</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2990114570.jpg?20260618134327263</url>
     </image>
     <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2974414570.jpg?20260612141746233</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973714570.jpg?20260612141744827</url>
-    </image>
-    <image>
-      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2973814570.jpg?20260612141745090</url>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301314570/2990314570.jpg?20260618134327780</url>
     </image>
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
     <num_units>1</num_units>
     <price>235000 BRL</price>
     <property_type>house</property_type>
+    <url>https://www.joharc.com.br</url>
+  </listing>
+  <listing>
+    <home_listing_id>14570-301414570</home_listing_id>
+    <name>Casa Residencial com 2 quartos  à venda, 60.50 m2 por R$270000.00  - Nucleo Habitacional Michel Soni - Apucarana/PR</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <description>Casa Residencial com 2 quartos à venda, 60.50 m2 por R$270000.00 - Nucleo Habitacional Michel Soni - Apucarana/PR Casa em alvenaria contendo: * 2 quartos * Sala de estar com pé-direito alto * Cozinha integrada * Banheiro social * Lavanderia coberta * Sobra de terreno nos fundos Medidas: 6,00 m x 21,00 m Área construída: 60,50 m² Área total: 126,00 m²</description>
+    <address format="simple">
+      <component name="addr1">Pardal 351</component>
+      <component name="city">APUCARANA</component>
+      <component name="region">PR</component>
+      <component name="country">Brasil</component>
+      <component name="postal_code">86813350</component>
+    </address>
+    <latitude>-23.5688573</latitude>
+    <longitude>-51.4258568</longitude>
+    <neighborhood>NUCLEO HABITACIONAL MICHEL SONI</neighborhood>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301414570/2974514570.jpg?20260615103854327</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301414570/2974614570.jpg?20260615103854590</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301414570/2974714570.jpg?20260615103854937</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301414570/2974814570.jpg?20260615103855293</url>
+    </image>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <num_units>1</num_units>
+    <price>270000 BRL</price>
+    <property_type>house</property_type>
+    <url>https://www.joharc.com.br</url>
+  </listing>
+  <listing>
+    <home_listing_id>14570-301514570</home_listing_id>
+    <name>Casa Residencial com 2 quartos  à venda, 60.50 m2 por R$275000.00  - Loteamento Residencial Veneza - Apucarana/PR</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <description>Casa Residencial com 2 quartos à venda, 60.50 m2 por R$275000.00 - Loteamento Residencial Veneza - Apucarana/PR Casa em alvenaria contendo: * 2 quartos * Sala de estar com pé-direito alto * Cozinha integrada * Banheiro social * 2 vagas de garagem descoberta * Sobra de terreno nos fundos Medidas : 6,00 m x 21,92 m Área construída: 60,50 m² Área total: 131,00 m²</description>
+    <address format="simple">
+      <component name="addr1">Ziro Tanaka 86</component>
+      <component name="city">APUCARANA</component>
+      <component name="region">PR</component>
+      <component name="country">Brasil</component>
+      <component name="postal_code">86800874</component>
+    </address>
+    <latitude>-23.5717505</latitude>
+    <longitude>-51.4926118</longitude>
+    <neighborhood>LOTEAMENTO RESIDENCIAL VENEZA</neighborhood>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301514570/2974914570.jpg?20260615165748217</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301514570/2975014570.jpg?20260615165748560</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301514570/2975114570.jpg?20260615165748827</url>
+    </image>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <num_units>1</num_units>
+    <price>275000 BRL</price>
+    <property_type>house</property_type>
+    <url>https://www.joharc.com.br</url>
+  </listing>
+  <listing>
+    <home_listing_id>14570-301614570</home_listing_id>
+    <name>Casa Residencial com 2 quartos  à venda, 117.83 m2 por R$250000.00  - Parque Bela Vista - Apucarana/PR</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <description>Casa Residencial com 2 quartos à venda, 117.83 m2 por R$250000.00 - Parque Bela Vista - Apucarana/PR Casa em alvenaria (forro de madeira) contendo: * 2 quartos, sendo 1 suíte * Sala de TV * Sala de estar * Cozinha * Banheiro social * Lavanderia * 1 vaga de garagem Medidas: 12,00 m x 30,00 m Área construída: 117,83 m² Área total: 360,00 m²</description>
+    <address format="simple">
+      <component name="addr1">João Matiuzzi 481</component>
+      <component name="city">APUCARANA</component>
+      <component name="region">PR</component>
+      <component name="country">Brasil</component>
+      <component name="postal_code">86803180</component>
+    </address>
+    <latitude>-23.5343933</latitude>
+    <longitude>-51.4577178</longitude>
+    <neighborhood>PARQUE BELA VISTA</neighborhood>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989614570.jpg?20260616144608857</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989514570.jpg?20260616144608543</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989714570.jpg?20260616144609247</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988314570.jpg?20260616144605060</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988614570.jpg?20260616144605810</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988214570.jpg?20260616144604763</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2987914570.jpg?20260616144603810</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988114570.jpg?20260616144604437</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2987814570.jpg?20260616144603513</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988714570.jpg?20260616144606107</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988414570.jpg?20260616144605340</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988914570.jpg?20260616144606840</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989214570.jpg?20260616144607640</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989014570.jpg?20260616144607153</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989314570.jpg?20260616144607920</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988814570.jpg?20260616144606483</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988514570.jpg?20260616144605530</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989114570.jpg?20260616144607340</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2988014570.jpg?20260616144604123</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301614570/2989414570.jpg?20260616144608230</url>
+    </image>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <num_units>1</num_units>
+    <price>250000 BRL</price>
+    <property_type>house</property_type>
+    <url>https://www.joharc.com.br</url>
+  </listing>
+  <listing>
+    <home_listing_id>14570-301914570</home_listing_id>
+    <name>Apartamento com 3 quartos  à venda, 127.59 m2 por R$680000.00  - Centro - Apucarana/PR</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <description>Apartamento com 3 quartos à venda, 127.59 m2 por R$680000.00 - Centro - Apucarana/PR Apartamento contendo: * 3 quartos, sendo 1 demi-suíte * Sala de estar * Cozinha * Banheiro social * Área de serviço * Quarto anexo * Banheiro no anexo * 2 vagas de garagem em gaveta Área construída: 127,59 m² Área total: 174,97 m²</description>
+    <address format="simple">
+      <component name="addr1">Doutor Oswaldo Cruz</component>
+      <component name="city">APUCARANA</component>
+      <component name="region">PR</component>
+      <component name="country">Brasil</component>
+      <component name="postal_code">86800720</component>
+    </address>
+    <latitude>-23.5576024</latitude>
+    <longitude>-51.4613212</longitude>
+    <neighborhood>CENTRO</neighborhood>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2990514570.jpg?20260619152512670</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2990614570.jpg?20260619152513077</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2990814570.jpg?20260619152513683</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2990714570.jpg?20260619152513373</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2990914570.jpg?20260619152513950</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991014570.jpg?20260619152514327</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991114570.jpg?20260619152514717</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991314570.jpg?20260619152515340</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991414570.jpg?20260619152515623</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991214570.jpg?20260619152515030</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991814570.jpg?20260619152516840</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991914570.jpg?20260619152517123</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2992214570.jpg?20260619152517700</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2992314570.jpg?20260619152517997</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2992414570.jpg?20260619152518263</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2992514570.jpg?20260619152518543</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2992114570.jpg?20260619152517403</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991714570.jpg?20260619152516543</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991514570.jpg?20260619152515920</url>
+    </image>
+    <image>
+      <url>https://fotos2.casasoft.net.br/indicadordeimoveis/imobiliarias/14570/fotos/301914570/2991614570.jpg?20260619152516217</url>
+    </image>
+    <num_beds>3</num_beds>
+    <num_baths>1</num_baths>
+    <num_units>1</num_units>
+    <price>680000 BRL</price>
+    <property_type>apartment</property_type>
     <url>https://www.joharc.com.br</url>
   </listing>
 </listings>
